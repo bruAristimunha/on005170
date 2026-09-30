@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Chisco",
-  "description": "Chisco is a Chinese imagined speech EEG dataset collected from five participants, each recorded over 5-6 sessions. The dataset includes raw EEG recordings and preprocessed data (in fif and pkl formats), along with accompanying text stimuli used to elicit imagined speech. It is intended to support research on imagined speech decoding and brain-computer interface applications using EEG signals.",
-  "methods_description": "EEG data were collected from five participants (sub-01 to sub-05) across 5-6 sessions per subject, during which participants performed an imagined speech task guided by textual stimuli. Raw EEG data are provided in EDF format, with preprocessed derivatives available in fif and pkl formats.",
+  "description": "Chisco is a Chinese imagined speech EEG dataset recorded from five participants (sub-01 to sub-05) across 5-6 sessions each on separate days. It provides raw EEG recordings, preprocessed data in fif and pkl formats, and the text stimuli used to elicit imagined speech. The dataset supports research on brain-computer interfaces and decoding of imagined language.",
+  "methods_description": "Participants completed 5-6 sessions over separate days, imagining Chinese sentences presented as text stimuli while EEG was recorded and saved in EDF format. Preprocessed derivatives are provided as fif and pkl files.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -20,16 +20,13 @@
       "term": "imagined speech"
     },
     {
-      "term": "brain-computer interface"
-    },
-    {
       "term": "Chinese language"
     },
     {
-      "term": "speech imagery"
+      "term": "brain-computer interface"
     },
     {
-      "term": "BIDS"
+      "term": "speech decoding"
     }
   ],
   "related_identifiers": [
@@ -60,7 +57,7 @@
     "eeg"
   ],
   "sizes": [
-    "280.6 GB (1167 files)"
+    "261 GB (1167 files)"
   ],
   "formats": [
     ".edf",
