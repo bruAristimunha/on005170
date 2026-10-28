@@ -1,0 +1,2031 @@
+{
+  "SourceGitCommit": "52239dffcc037a9d6619cd2e6d7df7d4649d8325",
+  "Derivation": "TaskName is the literal existing BIDS filename task identifier, not an inferred experiment description. All original tracked entries remain unchanged.",
+  "AddedSidecars": [
+    {
+      "path": "sub-01/ses-01/eeg/sub-01_ses-01_task-imagine_run-01_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-01/eeg/sub-01_ses-01_task-imagine_run-01_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-01/eeg/sub-01_ses-01_task-imagine_run-02_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-01/eeg/sub-01_ses-01_task-imagine_run-02_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-01/eeg/sub-01_ses-01_task-imagine_run-03_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-01/eeg/sub-01_ses-01_task-imagine_run-03_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-01/eeg/sub-01_ses-01_task-imagine_run-04_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-01/eeg/sub-01_ses-01_task-imagine_run-04_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-01/eeg/sub-01_ses-01_task-imagine_run-05_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-01/eeg/sub-01_ses-01_task-imagine_run-05_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-01/eeg/sub-01_ses-01_task-imagine_run-06_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-01/eeg/sub-01_ses-01_task-imagine_run-06_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-01/eeg/sub-01_ses-01_task-imagine_run-07_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-01/eeg/sub-01_ses-01_task-imagine_run-07_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-010_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-010_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-011_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-011_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-012_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-012_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-013_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-013_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-014_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-014_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-015_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-015_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-08_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-08_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-09_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-02/eeg/sub-01_ses-02_task-imagine_run-09_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-016_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-016_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-017_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-017_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-018_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-018_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-019_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-019_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-020_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-020_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-021_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-021_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-022_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-022_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-023_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-023_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-024_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-024_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-025_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-03/eeg/sub-01_ses-03_task-imagine_run-025_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-026_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-026_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-027_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-027_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-028_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-028_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-029_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-029_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-030_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-030_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-031_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-031_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-032_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-032_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-033_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-033_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-034_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-034_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-035_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-04/eeg/sub-01_ses-04_task-imagine_run-035_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-036_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-036_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-037_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-037_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-038_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-038_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-039_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-039_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-040_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-040_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-041_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-041_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-042_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-042_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-043_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-043_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-044_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-044_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-045_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-01/ses-05/eeg/sub-01_ses-05_task-imagine_run-045_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-01/eeg/sub-02_ses-01_task-imagine_run-01_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-01/eeg/sub-02_ses-01_task-imagine_run-01_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-01/eeg/sub-02_ses-01_task-imagine_run-02_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-01/eeg/sub-02_ses-01_task-imagine_run-02_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-01/eeg/sub-02_ses-01_task-imagine_run-03_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-01/eeg/sub-02_ses-01_task-imagine_run-03_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-01/eeg/sub-02_ses-01_task-imagine_run-04_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-01/eeg/sub-02_ses-01_task-imagine_run-04_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-01/eeg/sub-02_ses-01_task-imagine_run-05_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-01/eeg/sub-02_ses-01_task-imagine_run-05_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-01/eeg/sub-02_ses-01_task-imagine_run-06_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-01/eeg/sub-02_ses-01_task-imagine_run-06_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-01/eeg/sub-02_ses-01_task-imagine_run-07_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-01/eeg/sub-02_ses-01_task-imagine_run-07_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-010_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-010_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-011_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-011_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-012_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-012_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-013_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-013_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-014_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-014_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-015_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-015_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-016_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-016_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-08_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-08_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-09_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-02/eeg/sub-02_ses-02_task-imagine_run-09_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-017_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-017_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-018_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-018_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-019_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-019_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-020_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-020_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-021_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-021_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-022_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-022_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-023_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-023_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-024_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-024_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-025_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-03/eeg/sub-02_ses-03_task-imagine_run-025_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-026_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-026_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-027_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-027_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-028_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-028_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-029_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-029_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-030_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-030_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-031_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-031_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-032_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-032_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-033_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-033_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-034_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-04/eeg/sub-02_ses-04_task-imagine_run-034_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-035_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-035_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-036_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-036_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-037_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-037_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-038_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-038_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-039_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-039_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-040_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-040_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-041_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-041_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-042_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-042_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-043_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-043_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-044_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-044_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-045_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-02/ses-05/eeg/sub-02_ses-05_task-imagine_run-045_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-01/eeg/sub-03_ses-01_task-imagine_run-01_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-01/eeg/sub-03_ses-01_task-imagine_run-01_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-01/eeg/sub-03_ses-01_task-imagine_run-02_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-01/eeg/sub-03_ses-01_task-imagine_run-02_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-01/eeg/sub-03_ses-01_task-imagine_run-03_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-01/eeg/sub-03_ses-01_task-imagine_run-03_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-01/eeg/sub-03_ses-01_task-imagine_run-04_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-01/eeg/sub-03_ses-01_task-imagine_run-04_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-01/eeg/sub-03_ses-01_task-imagine_run-05_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-01/eeg/sub-03_ses-01_task-imagine_run-05_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-01/eeg/sub-03_ses-01_task-imagine_run-06_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-01/eeg/sub-03_ses-01_task-imagine_run-06_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-01/eeg/sub-03_ses-01_task-imagine_run-07_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-01/eeg/sub-03_ses-01_task-imagine_run-07_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-010_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-010_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-011_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-011_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-012_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-012_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-013_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-013_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-014_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-014_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-015_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-015_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-016_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-016_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-08_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-08_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-09_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-02/eeg/sub-03_ses-02_task-imagine_run-09_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-017_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-017_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-018_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-018_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-019_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-019_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-020_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-020_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-021_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-021_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-022_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-022_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-023_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-023_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-024_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-024_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-025_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-025_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-026_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-03/eeg/sub-03_ses-03_task-imagine_run-026_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-027_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-027_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-028_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-028_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-029_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-029_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-030_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-030_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-031_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-031_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-032_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-032_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-033_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-033_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-034_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-034_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-035_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-035_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-036_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-04/eeg/sub-03_ses-04_task-imagine_run-036_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-037_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-037_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-038_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-038_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-039_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-039_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-040_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-040_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-041_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-041_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-042_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-042_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-043_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-043_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-044_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-044_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-045_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-03/ses-05/eeg/sub-03_ses-05_task-imagine_run-045_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-01/eeg/sub-04_ses-01_task-imagine_run-01_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-01/eeg/sub-04_ses-01_task-imagine_run-01_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-01/eeg/sub-04_ses-01_task-imagine_run-02_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-01/eeg/sub-04_ses-01_task-imagine_run-02_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-01/eeg/sub-04_ses-01_task-imagine_run-03_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-01/eeg/sub-04_ses-01_task-imagine_run-03_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-01/eeg/sub-04_ses-01_task-imagine_run-04_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-01/eeg/sub-04_ses-01_task-imagine_run-04_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-01/eeg/sub-04_ses-01_task-imagine_run-05_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-01/eeg/sub-04_ses-01_task-imagine_run-05_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-01/eeg/sub-04_ses-01_task-imagine_run-06_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-01/eeg/sub-04_ses-01_task-imagine_run-06_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-01/eeg/sub-04_ses-01_task-imagine_run-07_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-01/eeg/sub-04_ses-01_task-imagine_run-07_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-02/eeg/sub-04_ses-02_task-imagine_run-010_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-02/eeg/sub-04_ses-02_task-imagine_run-010_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-02/eeg/sub-04_ses-02_task-imagine_run-011_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-02/eeg/sub-04_ses-02_task-imagine_run-011_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-02/eeg/sub-04_ses-02_task-imagine_run-012_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-02/eeg/sub-04_ses-02_task-imagine_run-012_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-02/eeg/sub-04_ses-02_task-imagine_run-013_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-02/eeg/sub-04_ses-02_task-imagine_run-013_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-02/eeg/sub-04_ses-02_task-imagine_run-014_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-02/eeg/sub-04_ses-02_task-imagine_run-014_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-02/eeg/sub-04_ses-02_task-imagine_run-08_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-02/eeg/sub-04_ses-02_task-imagine_run-08_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-02/eeg/sub-04_ses-02_task-imagine_run-09_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-02/eeg/sub-04_ses-02_task-imagine_run-09_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-03/eeg/sub-04_ses-03_task-imagine_run-015_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-03/eeg/sub-04_ses-03_task-imagine_run-015_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-03/eeg/sub-04_ses-03_task-imagine_run-016_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-03/eeg/sub-04_ses-03_task-imagine_run-016_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-03/eeg/sub-04_ses-03_task-imagine_run-017_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-03/eeg/sub-04_ses-03_task-imagine_run-017_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-03/eeg/sub-04_ses-03_task-imagine_run-018_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-03/eeg/sub-04_ses-03_task-imagine_run-018_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-03/eeg/sub-04_ses-03_task-imagine_run-019_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-03/eeg/sub-04_ses-03_task-imagine_run-019_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-03/eeg/sub-04_ses-03_task-imagine_run-020_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-03/eeg/sub-04_ses-03_task-imagine_run-020_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-03/eeg/sub-04_ses-03_task-imagine_run-021_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-03/eeg/sub-04_ses-03_task-imagine_run-021_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-04/eeg/sub-04_ses-04_task-imagine_run-022_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-04/eeg/sub-04_ses-04_task-imagine_run-022_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-04/eeg/sub-04_ses-04_task-imagine_run-023_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-04/eeg/sub-04_ses-04_task-imagine_run-023_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-04/eeg/sub-04_ses-04_task-imagine_run-024_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-04/eeg/sub-04_ses-04_task-imagine_run-024_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-04/eeg/sub-04_ses-04_task-imagine_run-025_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-04/eeg/sub-04_ses-04_task-imagine_run-025_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-04/eeg/sub-04_ses-04_task-imagine_run-026_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-04/eeg/sub-04_ses-04_task-imagine_run-026_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-04/eeg/sub-04_ses-04_task-imagine_run-027_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-04/eeg/sub-04_ses-04_task-imagine_run-027_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-04/eeg/sub-04_ses-04_task-imagine_run-028_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-04/eeg/sub-04_ses-04_task-imagine_run-028_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-029_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-029_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-030_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-030_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-031_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-031_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-032_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-032_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-033_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-033_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-034_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-034_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-035_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-035_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-036_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-05/eeg/sub-04_ses-05_task-imagine_run-036_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-037_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-037_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-038_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-038_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-039_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-039_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-040_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-040_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-041_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-041_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-042_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-042_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-043_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-043_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-044_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-044_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-045_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-04/ses-06/eeg/sub-04_ses-06_task-imagine_run-045_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-01/eeg/sub-05_ses-01_task-imagine_run-01_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-01/eeg/sub-05_ses-01_task-imagine_run-01_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-01/eeg/sub-05_ses-01_task-imagine_run-02_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-01/eeg/sub-05_ses-01_task-imagine_run-02_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-01/eeg/sub-05_ses-01_task-imagine_run-03_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-01/eeg/sub-05_ses-01_task-imagine_run-03_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-01/eeg/sub-05_ses-01_task-imagine_run-04_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-01/eeg/sub-05_ses-01_task-imagine_run-04_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-01/eeg/sub-05_ses-01_task-imagine_run-05_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-01/eeg/sub-05_ses-01_task-imagine_run-05_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-01/eeg/sub-05_ses-01_task-imagine_run-06_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-01/eeg/sub-05_ses-01_task-imagine_run-06_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-01/eeg/sub-05_ses-01_task-imagine_run-07_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-01/eeg/sub-05_ses-01_task-imagine_run-07_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-02/eeg/sub-05_ses-02_task-imagine_run-010_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-02/eeg/sub-05_ses-02_task-imagine_run-010_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-02/eeg/sub-05_ses-02_task-imagine_run-011_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-02/eeg/sub-05_ses-02_task-imagine_run-011_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-02/eeg/sub-05_ses-02_task-imagine_run-012_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-02/eeg/sub-05_ses-02_task-imagine_run-012_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-02/eeg/sub-05_ses-02_task-imagine_run-013_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-02/eeg/sub-05_ses-02_task-imagine_run-013_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-02/eeg/sub-05_ses-02_task-imagine_run-014_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-02/eeg/sub-05_ses-02_task-imagine_run-014_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-02/eeg/sub-05_ses-02_task-imagine_run-08_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-02/eeg/sub-05_ses-02_task-imagine_run-08_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-02/eeg/sub-05_ses-02_task-imagine_run-09_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-02/eeg/sub-05_ses-02_task-imagine_run-09_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-03/eeg/sub-05_ses-03_task-imagine_run-015_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-03/eeg/sub-05_ses-03_task-imagine_run-015_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-03/eeg/sub-05_ses-03_task-imagine_run-016_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-03/eeg/sub-05_ses-03_task-imagine_run-016_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-03/eeg/sub-05_ses-03_task-imagine_run-017_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-03/eeg/sub-05_ses-03_task-imagine_run-017_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-03/eeg/sub-05_ses-03_task-imagine_run-018_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-03/eeg/sub-05_ses-03_task-imagine_run-018_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-03/eeg/sub-05_ses-03_task-imagine_run-019_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-03/eeg/sub-05_ses-03_task-imagine_run-019_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-03/eeg/sub-05_ses-03_task-imagine_run-020_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-03/eeg/sub-05_ses-03_task-imagine_run-020_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-03/eeg/sub-05_ses-03_task-imagine_run-021_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-03/eeg/sub-05_ses-03_task-imagine_run-021_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-04/eeg/sub-05_ses-04_task-imagine_run-022_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-04/eeg/sub-05_ses-04_task-imagine_run-022_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-04/eeg/sub-05_ses-04_task-imagine_run-023_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-04/eeg/sub-05_ses-04_task-imagine_run-023_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-04/eeg/sub-05_ses-04_task-imagine_run-024_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-04/eeg/sub-05_ses-04_task-imagine_run-024_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-04/eeg/sub-05_ses-04_task-imagine_run-025_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-04/eeg/sub-05_ses-04_task-imagine_run-025_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-04/eeg/sub-05_ses-04_task-imagine_run-026_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-04/eeg/sub-05_ses-04_task-imagine_run-026_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-04/eeg/sub-05_ses-04_task-imagine_run-027_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-04/eeg/sub-05_ses-04_task-imagine_run-027_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-04/eeg/sub-05_ses-04_task-imagine_run-028_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-04/eeg/sub-05_ses-04_task-imagine_run-028_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-029_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-029_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-030_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-030_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-031_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-031_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-032_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-032_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-033_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-033_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-034_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-034_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-035_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-035_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-036_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-05/eeg/sub-05_ses-05_task-imagine_run-036_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-037_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-037_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-038_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-038_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-039_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-039_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-040_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-040_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-041_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-041_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-042_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-042_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-043_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-043_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-044_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-044_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    },
+    {
+      "path": "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-045_eeg.json",
+      "task_token": "imagine",
+      "source_files": [
+        "sub-05/ses-06/eeg/sub-05_ses-06_task-imagine_run-045_eeg.edf"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "390f953ab01ebf64baa670dfbe94855163c847e58d906b7a8fa0024a3e6c0a4e"
+    }
+  ]
+}
